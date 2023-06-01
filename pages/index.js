@@ -1,5 +1,7 @@
+import Menu from "./menu"
+
 function Home() {
-    return <h1>Anderson</h1> 
+    return Menu
 }
 
 export default Home 
