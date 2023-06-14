@@ -1,0 +1,15 @@
+/* classes do menu */
+
+.menu {
+   display: flex;
+   font-size: 20px;
+   border-radius: 5px;
+   padding: 40px;
+}
+
+.infoBotaoMenu {
+   padding: 5px 30px 5px 30px;
+   text-decoration: none;
+   color: black;
+}
+ 
